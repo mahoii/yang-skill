@@ -1,6 +1,6 @@
 # /yang: research someone before you reach out
 
-Download: [SKILL.md](SKILL.md) · [yang.zip](yang.zip) (for claude.ai)
+Download: [SKILL.md](https://github.com/mahoii/yang-skill/raw/main/SKILL.md) · [yang.zip](https://github.com/mahoii/yang-skill/raw/main/yang.zip) (for claude.ai)
 
 A Claude skill. Before a call, visit or cold message, ask Claude to run it on a person or business. It researches them from several angles, argues for and against your next move, and gives you one verdict, a specific opening line, one question to ask, and the next step. Every finding comes with a source and a label: what someone said, what a source says, or what Claude inferred.
 
